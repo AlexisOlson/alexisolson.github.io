@@ -5,4 +5,4 @@ title: Home
 
 Welcome to my site!
 
-Check out the [blog](blog.html) or [about me](about.html).
+Check out the [blog](/blog/) or [about me](/about/).

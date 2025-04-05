@@ -13,7 +13,3 @@ plugins:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-
-# Exclude files/folders from the build
-exclude:
-  - README.md

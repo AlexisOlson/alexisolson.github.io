@@ -1,5 +1,19 @@
 title: To Be Determined
 author: Alexis Olson
+description: >-
+  A personal blog by Alexis Olson. Thoughts, experiments, and things I'm working on.
+  
+# Theme from GitHub Pages Themes
 remote_theme: pages-themes/midnight@v0.2.0
+
+# Enable GitHub Pages remote themes
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files/folders from the build
+exclude:
+  - README.md

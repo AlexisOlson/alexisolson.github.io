@@ -1,4 +1,4 @@
-pre.DAX {
+.dax-block pre {
   background-color: #1e1e1e;
   color: #f5f5f5;
   padding: 1rem;
@@ -7,15 +7,15 @@ pre.DAX {
   font-family: Consolas, monospace;
 }
 
-pre.DAX .function {
+.dax-block .function {
   color: #569cd6;
   font-weight: bold;
 }
 
-pre.DAX .column {
+.dax-block .column {
   color: #9cdcfe;
 }
 
-pre.DAX .table {
+.dax-block .table {
   color: #c586c0;
 }

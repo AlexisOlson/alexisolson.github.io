@@ -2,6 +2,8 @@ title: To Be Determined
 author: Alexis Olson
 description: >-
   A personal blog by Alexis Olson. Thoughts, experiments, and things I'm working on.
+
+permalink: /blog/:year/:month/:day/:title.html
   
 # Theme from GitHub Pages Themes
 remote_theme: pages-themes/slate@v0.2.0

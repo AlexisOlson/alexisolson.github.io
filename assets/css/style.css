@@ -44,3 +44,12 @@ pre.dax-code .column {
 pre.dax-code .table {
   color: #333; /* Standard text color for tables */
 }
+
+/* Additional classes from the example */
+pre.dax-code .plain {
+  color: #333; /* Standard text color for plain text */
+}
+
+pre.dax-code .operator {
+  color: #333; /* Standard text color for operators */
+}

@@ -39,12 +39,18 @@ pre.dax-code .string {
 }
 
 pre.dax-code .function {
-  color: #035ACA; /* Blue for functions */
+  color: #3767BB; /* Blue for functions */
+  font-weight: bold;
+}
+
+pre.dax-code .variable {
+  color: #208080; /* Teal for variables */
   font-weight: bold;
 }
 
 pre.dax-code .keyword {
-  color: #035ACA; /* Blue for keywords */
+  color: #091EFF; /* Blue bold for keywords */
+  font-weight: bold;
 }
 
 pre.dax-code .number {
@@ -55,13 +61,12 @@ pre.dax-code .parenthesis {
   color: #808080; /* Gray for parentheses */
 }
 
-/* Standard text colors */
-pre.dax-code .column {
-  color: #333; /* Standard text color for columns */
+pre.dax-code .table {
+  color: #000080; /* Dark blue for tables */
 }
 
-pre.dax-code .table {
-  color: #333; /* Standard text color for tables */
+pre.dax-code .column {
+  color: #000080; /* Dark blue for columns */
 }
 
 pre.dax-code .plain {
